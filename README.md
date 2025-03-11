@@ -28,7 +28,7 @@ This mod **only "reveals"** the crew members on the ship, i.e. sets the roles fo
 
 ## Download
 
-You can download the latest version via Steam client - [Lost Ship Replacement - Phantom Crew Revealer](https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160)
+You can download the latest version via - [Steam client](https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160)
 Or you can do it via [Nexus Mods](https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659)
 
 ## Usage
