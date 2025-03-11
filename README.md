@@ -37,6 +37,6 @@ Simply install the extension and play as usual.
 
 ## Links
 
-A short explanation video on YouTube - [Lost Ship Replacement - Phantom Crew Revealer](https://www.youtube.com/watch?v=WM6ZbeVTh6E)
+A short explanation video on YouTube - [X4 Foundations: Lost Ship Replacement - Phantom Crew Revealer](https://www.youtube.com/watch?v=WM6ZbeVTh6E)
 
 There is a thread on the EGOSOFT forum - [[Mod/AIScript] Lost Ship Replacement - Phantom Crew Revealer](https://forum.egosoft.com/viewtopic.php?t=470128)
