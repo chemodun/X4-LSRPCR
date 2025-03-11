@@ -1,11 +1,18 @@
 [size=4][u]Lost Ships Replacement - Phantom Crew Revealer[/u][/size]
 
 In X4: Foundations, the [b]Lost Ships Replacement[/b] feature was introduced in version [b]7.50[/b].
-This feature allows the fleet to request a replacement ship if the ship was lost during the execution of the order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.
-However, when you enable the [b]Lost Ships Replacement[/b] feature for a fleet, the replacement ship will come with only pilot in place.
-At least only pilot will be visible in the ship crew information tab.
+This feature allows the fleet to request a replacement ship if a ship is lost during the execution of an order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.
+However, when you enable the [b]Lost Ships Replacement[/b] feature for a fleet, the replacement ship will come with only a pilot in place.
 
-In reality, there are some other crew members on the ship. This extension fixes this issue and reveals these phantom crew members on the ship.
+[img]https:/raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_is_coming.png[/img]
+
+At least, only the pilot will be visible in the ship crew information tab.
+
+[img]https:/raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_empty_crew.png[/img]
+
+In reality, there are other crew members on the ship. This extension fixes this issue and reveals these "phantom" crew members on the ship.
+
+[img]https:/raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_revealed_crew.png[/img]
 
 [size=3][u][b]Compatibility[/b][/u][/size]
 
@@ -13,16 +20,23 @@ This extension is compatible with the following versions:
 [list]
 [*] X4: Foundations version [b]7.50[/b]
 [/list]
+[size=3][u][b]Limitations[/b][/u][/size]
+
+This mod "reveals" only [b]Service crew[/b] and [b]Marines[/b] on the ship. It does not assign anybody to "officer" posts. Tested on 'S' and 'M' ships.
+
+This mod [b]only "reveals"[/b] the crew members on the ship, i.e. sets the roles for the crew members. [b]It does not create/modify any crew members.[/b]
+
 [size=3][u][b]Download[/b][/u][/size]
 
 You can download the latest version via Steam client - [url=https://steamcommunity.com/id/chemodun/myworkshopfiles/?appid=392160]Lost Ship Replacement - Phantom Crew Revealer[/url]
-Or you can do it via the [url=https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659]Nexus Mods[/url]
+Or you can do it via [url=https://next.nexusmods.com/profile/ChemODun/mods?gameId=2659]Nexus Mods[/url]
 
 [size=3][u][b]Usage[/b][/u][/size]
 
-Simply install the extension and use the orders as usual.
-One recommendation - it is better to restart the orders before enabling the [b]Lost Ships Replacement[/b] feature.
+Simply install the extension and play as usual.
 
 [size=3][u][b]Links[/b][/u][/size]
 
-There is a thread on EGOSOFT forum - [url=https://forum.egosoft.com/viewtopic.php?t=470128][Mod/AIScript] Lost Ship Replacement - Phantom Crew Revealer[/url]
+A short explanation video on YouTube - [url=https://www.youtube.com/watch?v=WM6ZbeVTh6E]Lost Ship Replacement - Phantom Crew Revealer[/url]
+
+There is a thread on the EGOSOFT forum - [url=https://forum.egosoft.com/viewtopic.php?t=470128][Mod/AIScript] Lost Ship Replacement - Phantom Crew Revealer[/url]
