@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content
-  id=""
+  id="ws_3442684328"
   name="Lost Ships Replacement - Phantom Crew Revealer"
-  description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."
+  description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player."
   author="Chem O`Dun"
   version="100"
   date="2025-03-11"
   save="false"
 >
-  <text language="7" description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+  <text language="7"
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="33"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="37"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="39"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="44"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="49"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="55"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="81"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="82"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="86"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="88"
-    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew is revealed to the player."></text>
-  <dependency version="750"></dependency>
+    description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
+  <dependency version="750" />
 </content>
