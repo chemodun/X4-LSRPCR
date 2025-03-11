@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content
-  id="ws_3442684328"
-  name="Lost Ships Replacement - Phantom Crew Revealer"
+<content id="ws_3442684328" name="Lost Ships Replacement - Phantom Crew Revealer"
   description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player."
-  author="Chem O`Dun"
-  version="100"
-  date="2025-03-11"
-  save="false"
->
+  author="Chem O`Dun" version="100" date="2025-03-11" save="false" lastupdate="1741715938">
   <text language="7"
     description="This mod fixes the 'hidden' crew on a Replacement Ship, so that 'phantom' crew members are revealed to the player." />
   <text language="33"
