@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<diff>
+  <add sel="/aiscript/attention[@min='unknown']/actions/do_if[@value='$joinfleet']/do_if[@value='this.assignedcontrolled.fleetunit.exists']">
+    <set_value name="$lastMarine" exact="true" />
+    <do_for_each name="$crewMember" in="this.assignedcontrolled.availablepeople.list">
+      <do_if value="@this.assignedcontrolled.availablepeople.{$crewMember}.role == null and @this.assignedcontrolled.availablepeople.{$crewMember}.controlpost == null">
+        <do_if value="this.assignedcontrolled.availablepeople.{$crewMember}.combinedskill == 0">
+          <do_if value="$lastMarine">
+            <set_npc_template_role template="$crewMember" object="this.assignedcontrolled" role="entityrole.service" />
+          </do_if>
+          <do_else>
+            <set_npc_template_role template="$crewMember" object="this.assignedcontrolled" role="entityrole.marine" />
+          </do_else>
+          <set_value name="$lastMarine" exact="not $lastMarine" />
+        </do_if>
+        <do_else>
+          <do_if value="this.assignedcontrolled.availablepeople.{$crewMember}.skill.engineering gt this.assignedcontrolled.availablepeople.{$crewMember}.skill.boarding">
+            <set_npc_template_role template="$crewMember" object="this.assignedcontrolled" role="entityrole.service" />
+          </do_if>
+          <do_else>
+            <set_npc_template_role template="$crewMember" object="this.assignedcontrolled" role="entityrole.marine" />
+          </do_else>
+        </do_else>
+      </do_if>
+    </do_for_each>
+    <remove_value name="$lastMarine" />
+  </add>
+</diff>
