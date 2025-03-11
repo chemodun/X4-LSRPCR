@@ -25,4 +25,4 @@ One recommendation - it is better to restart the orders before enabling the `Los
 
 ## Links
 
-There is a thread on EGOSOFT forum - [[Mod/AIScript] Lost Ship Replacement - Phantom Crew Revealer](https://forum.egosoft.com/viewtopic.php?t=??????)
+There is a thread on EGOSOFT forum - [[Mod/AIScript] Lost Ship Replacement - Phantom Crew Revealer](https://forum.egosoft.com/viewtopic.php?t=470128)
