@@ -4,15 +4,15 @@ In X4: Foundations, the [b]Lost Ships Replacement[/b] feature was introduced in 
 This feature allows the fleet to request a replacement ship if a ship is lost during the execution of an order. The replacement ship will be requested automatically, and the fleet will continue to execute the order.
 However, when you enable the [b]Lost Ships Replacement[/b] feature for a fleet, the replacement ship will come with only a pilot in place.
 
-[img]https://raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_is_coming.jpg[/img]
+[img]https://raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_is_coming.png[/img]
 
 At least, only the pilot will be visible in the ship crew information tab.
 
-[img]https://raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_empty_crew.jpg[/img]
+[img]https://raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_empty_crew.png[/img]
 
 In reality, there are other crew members on the ship. This extension fixes this issue and reveals these "phantom" crew members on the ship.
 
-[img]https://raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_revealed_crew.jpg[/img]
+[img]https://raw.githubusercontent.com/chemodun/X4-LSRPCR/refs/heads/main/docs/images/replacement_ship_revealed_crew.png[/img]
 
 [h2][b]Compatibility[/b][/h2]
 
