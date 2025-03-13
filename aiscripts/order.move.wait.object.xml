@@ -4,7 +4,7 @@
     <set_value name="$lastMarine" exact="true" />
     <do_for_each name="$crewMember" in="this.assignedcontrolled.availablepeople.list">
       <do_if value="@this.assignedcontrolled.availablepeople.{$crewMember}.role == null and @this.assignedcontrolled.availablepeople.{$crewMember}.controlpost == null">
-        <do_if value="this.assignedcontrolled.availablepeople.{$crewMember}.combinedskill == 0">
+        <do_if value="(this.assignedcontrolled.availablepeople.{$crewMember}.skill.engineering + this.assignedcontrolled.availablepeople.{$crewMember}.skill.boarding) == 0">
           <do_if value="$lastMarine">
             <set_npc_template_role template="$crewMember" object="this.assignedcontrolled" role="entityrole.service" />
           </do_if>
