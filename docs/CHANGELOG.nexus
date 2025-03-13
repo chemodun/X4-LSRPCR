@@ -1,0 +1,14 @@
+[size=4][u]Changelog[/u][/size]
+
+[size=3][u][b][1.01] - 2025-03-13[/b][/u][/size]
+
+[size=3][u][i]Fixed[/i][/u][/size]
+[list]
+[*] For unassigned crew [b]combined skill[/b] is always [b]0[/b]. Own calculation is added. De facto it is not changing now anything. For future improvements.
+[/list]
+[size=3][u][b][1.00] - 2025-03-11[/b][/u][/size]
+
+[size=3][u][i]Added[/i][/u][/size]
+[list]
+[*] Initial version of the Phantom Crew Revealer extension.
+[/list]
